@@ -10,6 +10,7 @@ An educational series about the Sui ecosystem, taking place from February throug
 - **Lesson Four: Introduction to Dynamic Objects + Best Design Practices**
 - **Lesson Five: Project Showcase: On-Chain RPG - Part 1**
 - **Lesson Six: Project Showcase: On-Chain RPG - Part 2**
+- **building an RPG game on Sui- Part 3**
 
 ## General Developer Resources
 
